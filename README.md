@@ -3,4 +3,4 @@ This module is a block that reads the 4 ADC inputs of the ADS7924 and presents t
 
 More info: https://groups.google.com/g/fpga-wars-explorando-el-lado-libre/c/9gcu-SFjloA
 
-All credits belong to Jesús Arias.
+All credits belong to **Jesús Arias**.
